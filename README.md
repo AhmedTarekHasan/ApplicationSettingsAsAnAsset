@@ -1,5 +1,5 @@
 # Application Settings As An Asset
-### How To Centralize Your Web Application Settings And Decouple Your Code From Back-End Dependent Logic and Code
+### How To Centralize Your Web Application Settings and Decouple Your Code From Back-End Dependent Logic and Code
 
 <br/>
 
